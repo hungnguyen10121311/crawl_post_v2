@@ -1,5 +1,16 @@
 {
-    
+    "account_1": {
+        "url1": "https://emso.vn/page/LCKTiengViet",
+        "url2": "https://www.facebook.com/LCKTiengViet",
+        "username": "emsomanagerhd@gmail.com",
+        "password": "khongnhomatkhaucu"
+    },
+    "account_2": {
+        "url1": "https://emso.vn/page/topcomments.vn",
+        "url2": "https://www.facebook.com/topcomments.vn",
+        "username": "emsomanagerhd@gmail.com",
+        "password": "khongnhomatkhaucu"
+    },
     "account_3": {
         "url1": "https://emso.vn/page/beatvn.network",
         "url2": "https://www.facebook.com/beatvn.network",
